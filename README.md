@@ -3,7 +3,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href=/"> Resultado-Google--copy</a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/Resultado-do-google-copy//"> Resultado-Google--copy</a>
 
 !
 # Sobre
