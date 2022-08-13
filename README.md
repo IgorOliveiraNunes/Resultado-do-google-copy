@@ -3,7 +3,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href=https://igoroliveiranunes.github.io/Resultado-do-google-copy/"> Resultado-Google--copy</a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/Resultado-do-google-copy/> Resultado-Google--copy</a>
 
 ![google result copy](https://user-images.githubusercontent.com/93622964/183358680-e7e8114f-1fcb-4eeb-b91b-5a05b108da2e.png)
   
